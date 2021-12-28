@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Pendaftaran Siswa Baru | SMK Coding</title>
+	<title>Pendaftaran Siswa Baru | SMKM 1</title>
 </head>
 
 <body>
